@@ -2,13 +2,11 @@
 
 ## Overview
 
-As part of their growth strategy, Chewy's execs would like to start expanding sales to Europe. Unfortunately they've encountered a snag in the process: GDPR. "We've never dealt with consumer privacy regulations until recently as we've expanded our shipping clientele to the international marketplace," says Chewy's CEO. "I'm hoping our new cybersecurity consultants can implement some systems and processes that will not only keep us GDPR compliant but also let customers know that Chewy is a brand that takes their data privacy seriously."
-
-For this project, Chewy has requested a demonstration of how you'll be able to protect PII and PCI data in the cloud from being exfiltrated. You'll need to implement the following in AWS Cloud to demonstrate to Chewy how you'll prevent their PII and PCI data from falling into the wrong hands:
+Chewy's executives want to start increasing sales to Europe as part of their expansion strategy. Regrettably, GDPR has caused a hiccup in the process. The CEO of Chewy explains, "Up until recently, when we expanded our shipping clients to the worldwide market, we've never dealt with consumer privacy regulations. "I'm hoping that our new cybersecurity consultants can put in place some systems and processes that will keep us GDPR compliant and also show customers that Chewy is a company that takes their data privacy seriously," said the new hire.
 
 ## Project Objectives:
 
-Chewy Security AWS is a comprehensive security solution designed to enable Chewy's expansion into Europe while ensuring compliance with GDPR regulations and protecting personally identifiable information (PII) and payment card industry (PCI) data. The project aims to demonstrate a robust cybersecurity infrastructure in AWS Cloud, showcasing the implementation of various security measures to prevent unauthorized access and data exfiltration.
+The goal of Chewy Security AWS is to safeguard personally identifiable information (PII) and payment card industry (PCI) data while enabling Chewy's development into Europe and maintaining GDPR compliance. The project's goal is to showcase a strong cybersecurity infrastructure in the AWS Cloud, demonstrating the application of several security mechanisms to stop illegal access and data exfiltration.
 
 **Objective 1:** 
 
