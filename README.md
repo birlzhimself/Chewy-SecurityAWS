@@ -1,5 +1,7 @@
 # Chewy-SecurityAWS
 
+![https://i.ibb.co/Wx7ZrTH/Screenshot-2023-05-31-222753.jpg](https://i.ibb.co/Wx7ZrTH/Screenshot-2023-05-31-222753.jpg)
+
 ## Overview
 
 Chewy's executives want to start increasing sales to Europe as part of their expansion strategy. Regrettably, GDPR has caused a hiccup in the process. The CEO of Chewy explains, "Up until recently, when we expanded our shipping clients to the worldwide market, we've never dealt with consumer privacy regulations. "I'm hoping that our new cybersecurity consultants can put in place some systems and processes that will keep us GDPR compliant and also show customers that Chewy is a company that takes their data privacy seriously," said the new hire.
