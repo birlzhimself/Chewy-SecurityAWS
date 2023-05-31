@@ -4,11 +4,11 @@
 
 ## Project Objectives:
 
-**Objective 1:** Develop as a team a singular Powershell script that, when executed on a new installation of Windows Server, can fully standup all requisite services to make the server into a DC. Minimum required components of the script are listed in the Project Guidelines document (see attachment). Each individual of the team is to contribute their share of the overall script and document their individual contribution. The final script should reflect an equal effort from all team members.
+**Objective 1:** 
 
-**Objective 2:** Build a working client-server VPN loadout from AWS EC2. Successfully connect a Windows 10 client to the AWS VPC. Demonstrate access to resources on AWS.
+**Objective 2:** 
 
-**Objective 3:** Deploy a RADIUS system that raises a captive portal for new network users and authenticates them using AD credentials.
+**Objective 3:** 
 
 ## Deliverables:
 
