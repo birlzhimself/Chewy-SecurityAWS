@@ -21,4 +21,4 @@
 **Knowing that every person in your team needs to understand all aspects of the project, how do you plan to approach the day-to-day work?**
 
 * In Slack, a private channel/group was formed to communicate via text as well as a Discord Channel to communicate via voice, so we can communicate effectively on all project ideas and improvements. The schedules of each element of the group are rather varied, but we've already talked about it, and every day we'll offer input and attempt to guarantee that all the work is completed with the presence of all the elements.
-Every time there is a change within our AWS environment or a decision is made, we will ensure that everyone is on board with every stage of the project, having either worked on it or at least understood what the other colleague did.
+* Every time there is a change within our AWS environment or a decision is made, we will ensure that everyone is on board with every stage of the project, having either worked on it or at least understood what the other colleague did.
