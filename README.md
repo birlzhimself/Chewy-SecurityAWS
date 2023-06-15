@@ -41,6 +41,10 @@ The goal of Chewy Security AWS is to safeguard personally identifiable informati
 
 * Challenge yourselves to implement a novel tool, system, or technique that was not demonstrated or performed during lab time in term 1 of your Ops 401 class
 
+## Network Topology:
+
+![https://i.ibb.co/xJvvdNF/AWSTopology.jpg](https://i.ibb.co/xJvvdNF/AWSTopology.jpg)
+
 ## Deliverables:
 
 - [Project Plan](https://docs.google.com/document/d/1PaMgX8umSwd43FG2Iz_wzYJZdSnE6O4M3tAkEPKg2sw/edit?usp=sharing)
