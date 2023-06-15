@@ -45,7 +45,7 @@ The goal of Chewy Security AWS is to safeguard personally identifiable informati
 
 - [Project Plan](https://docs.google.com/document/d/1PaMgX8umSwd43FG2Iz_wzYJZdSnE6O4M3tAkEPKg2sw/edit?usp=sharing)
 - [Project Report](https://docs.google.com/document/d/1c9sl-zDqpSAXWJocXoAe6HKFAgPYL8mNjWGkYOewlO4/edit?usp=sharing)
-- [Demo Day Slide Deck](https://docs.google.com/presentation/d/1IMLBrRqZavmiHt--BKj7qxgCcPtg_YkOefDWfLIRt2U/edit?usp=sharing)
+- [Demo Day Slide Deck](https://drive.google.com/file/d/1xjN78UAjZ6FYvJ5Mz-xo8ofXB_W5B7-G/view?usp=sharing)
 - [Team Agreements](https://github.com/birlzhimself/Chewy-SecurityAWS/blob/main/TeamAgreements/TeamAgreements.md)
 
 ## Team Contributors:
