@@ -43,7 +43,8 @@ The goal of Chewy Security AWS is to safeguard personally identifiable informati
 
 ## Network Topology:
 
-![https://i.ibb.co/xJvvdNF/AWSTopology.jpg](https://i.ibb.co/xJvvdNF/AWSTopology.jpg)
+[![https://i.ibb.co/xJvvdNF/AWSTopology.jpg](https://i.ibb.co/xJvvdNF/AWSTopology.jpg)
+](https://camo.githubusercontent.com/6d4d8eef34cbb90479941c4d46973f2e1e6bc9c8f301dc0d47dbc58eacf140e3/68747470733a2f2f692e6962622e636f2f784a7676644e462f415753546f706f6c6f67792e6a7067)
 
 ## Deliverables:
 
